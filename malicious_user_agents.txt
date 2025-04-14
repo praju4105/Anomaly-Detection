@@ -1,0 +1,6 @@
+sqlmap/1.7.6#stable (https://sqlmap.org)
+Nmap Scripting Engine; https://nmap.org/book/nse.html
+Nikto/2.5.0 (Evasions:None) (Test:000001)
+BadScanner/1.0
+()()()()()()(((())))
+Mozilla
